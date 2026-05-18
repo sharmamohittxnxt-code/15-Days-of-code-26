@@ -47,3 +47,16 @@ Today I revised a few more coding problems based on binary search and also revis
 - Revised concepts of array transition and binary search.
 - Revised search in rotated sorted array.
 - Revised basic problems of strings and palindromes.
+
+## Day 3
+
+### Progress Update
+Today I revised 2-D arrays and solved problems based on two pointers and binary search.
+
+### Screenshot
+
+![Submission](Day3/submit.png)
+
+### Key Learnings
+- Revised concepts of 2-D array transition and binary search.
+- Solved searh problems in 2-D array.
