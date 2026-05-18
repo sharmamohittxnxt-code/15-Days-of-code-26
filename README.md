@@ -60,3 +60,16 @@ Today I revised 2-D arrays and solved problems based on two pointers and binary 
 ### Key Learnings
 - Revised concepts of 2-D array transition and binary search.
 - Solved searh problems in 2-D array.
+
+## Day 4
+
+### Progress Update
+Today I sloved higher level problems including those involving preifx sum, hashmap, and two pointers.
+
+### Screenshot
+
+![Submission](Day4/submit4.png)
+
+### Key Learnings
+- Revised pefix sum and its concepts.
+- Solved standard problems including 3sum and 4sum.
