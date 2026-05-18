@@ -33,3 +33,17 @@ Today I revised coding problems that I had already been through, solved qotd, an
 - Uploading images to GitHub
 - Using git add, commit, and push
 - Revised concepts of array transition and binary search.
+
+## Day 2
+
+### Progress Update
+Today I revised a few more coding problems based on binary search and also revised strings. Also solved the question of the day.
+
+### Screenshot
+
+![Submission](Day2/shot21.png)
+
+### Key Learnings
+- Revised concepts of array transition and binary search.
+- Revised search in rotated sorted array.
+- Revised basic problems of strings and palindromes.
