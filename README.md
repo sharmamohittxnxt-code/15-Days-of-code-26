@@ -71,5 +71,18 @@ Today I sloved higher level problems including those involving preifx sum, hashm
 ![Submission](Day4/submit4.png)
 
 ### Key Learnings
-- Revised pefix sum and its concepts.
+- Revised prefix sum and its concepts.
 - Solved standard problems including 3sum and 4sum.
+
+## Day 5
+
+### Progress Update
+Today I sloved higher level problems based on previously learnt concepts and virtually attended LC weekly contest 502 and was able to solve the first two problems
+
+### Screenshot
+
+![Submission](DAY5/submit5.png)
+
+### Key Learnings
+- solved higher level binary search problems.
+- virtually attended conest and solved two problems(1 easy and 1 medium).
