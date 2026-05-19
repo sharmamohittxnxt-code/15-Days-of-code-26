@@ -81,7 +81,7 @@ Today I sloved higher level problems based on previously learnt concepts and vir
 
 ### Screenshot
 
-![Submission](DAY5/submit5.png)
+![Submission](Day5/submit5.png)
 
 ### Key Learnings
 - solved higher level binary search problems.
