@@ -77,7 +77,7 @@ Today I sloved higher level problems including those involving preifx sum, hashm
 ## Day 5
 
 ### Progress Update
-Today I sloved higher level problems based on previously learnt concepts and virtually attended LC weekly contest 502 and was able to solve the first two problems
+Today I solved higher level problems based on previously learnt concepts and virtually attended LC weekly contest 502 and was able to solve the first two problems
 
 ### Screenshot
 
