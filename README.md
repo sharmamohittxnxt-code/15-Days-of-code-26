@@ -86,3 +86,15 @@ Today I solved higher level problems based on previously learnt concepts and vir
 ### Key Learnings
 - solved higher level binary search problems.
 - virtually attended conest and solved two problems(1 easy and 1 medium).
+
+## Day 6
+
+### Progress Update
+Today I solved higher level problems based linked lists.
+
+### Screenshot
+
+![Submission](DAY6/6.png)
+
+### Key Learnings
+- Learnt linked list related concepts and solved its questions.
