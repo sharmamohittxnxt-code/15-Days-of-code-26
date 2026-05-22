@@ -94,7 +94,31 @@ Today I solved higher level problems based linked lists.
 
 ### Screenshot
 
-![Submission](DAY6/6.png)
+![Submission](Day6/6.png)
 
 ### Key Learnings
 - Learnt linked list related concepts and solved its questions.
+
+## Day 7
+
+### Progress Update
+Today I solved basic problems related to monotonic stack.
+
+### Screenshot
+
+![Submission](Day7/Submit7.png)
+
+### Key Learnings
+- Learnt stack related concepts and solved its questions.
+
+## Day 8
+
+### Progress Update
+Today I solved higher level problems related to stack.
+
+### Screenshot
+
+![Submission](Day8/Submit8.png)
+
+### Key Learnings
+- Expanded on stack related concepts and solved its questions.
