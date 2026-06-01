@@ -142,7 +142,7 @@ Today I solved weekly contest problems, dpps & some difficult string related pro
 
 ### Screenshot
 
-![Submission](Day9/sub10.png)
+![Submission](Day10/sub10.png)
 
 ### Key Learnings
 - Expanded on previously learned concepts and virtually attended a contest.
