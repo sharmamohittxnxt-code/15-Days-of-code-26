@@ -122,3 +122,27 @@ Today I solved higher level problems related to stack.
 
 ### Key Learnings
 - Expanded on stack related concepts and solved its questions.
+
+## Day 9
+
+### Progress Update
+Today I solved weekly contest problems and dpps.
+
+### Screenshot
+
+![Submission](Day9/sub9.png)
+
+### Key Learnings
+- Expanded on previously learned concepts and virtually attended a contest.
+
+## Day 10
+
+### Progress Update
+Today I solved weekly contest problems, dpps & some difficult string related problems.
+
+### Screenshot
+
+![Submission](Day9/sub10.png)
+
+### Key Learnings
+- Expanded on previously learned concepts and virtually attended a contest.
