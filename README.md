@@ -146,3 +146,27 @@ Today I solved weekly contest problems, dpps & some difficult string related pro
 
 ### Key Learnings
 - Expanded on previously learned concepts and virtually attended a contest.
+
+## Day 11
+
+### Progress Update
+Today I solved  dpps & one difficult stack related problem that I had been stuck on.
+
+### Screenshot
+
+![Submission](Day11/submit11.png)
+
+### Key Learnings
+- Expanded on previously learned concepts and conquered a previously unsolved question.
+
+## Day 12
+
+### Progress Update
+Today I solved difficult sliding window and queue related problems.
+### Screenshot
+
+![Submission](Day12/sub12.png)
+
+### Key Learnings
+- Expanded on knowledge of sliding window and doudble headed queue.
+
