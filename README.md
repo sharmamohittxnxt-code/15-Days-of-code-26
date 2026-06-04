@@ -170,3 +170,38 @@ Today I solved difficult sliding window and queue related problems.
 ### Key Learnings
 - Expanded on knowledge of sliding window and doudble headed queue.
 
+## Day 13
+
+### Progress Update
+Today I solved stack related problems on tuf and leetcode, alonside a few easy binary tree related problems.
+### Screenshot
+
+![Submission](Day13/sub13.png)
+
+### Key Learnings
+- Expanded on knowledge of stack and revised basic binary trees.
+
+## Day 14
+
+### Progress Update
+Today I solved esay to medium level binary tree related problems on leetcode.
+### Screenshot
+
+![Submission](Day14/sub14.png)
+
+### Key Learnings
+- Expanded on knowledge of binary trees.
+
+## Day 15
+
+### Progress Update
+Today I solved medium level binary tree related problems on leetcode, alongide the question of the day.
+### Screenshot
+
+![Submission](Day15/sub15.png)
+
+### Key Learnings
+- Expanded on knowledge of binary trees.
+
+
+
