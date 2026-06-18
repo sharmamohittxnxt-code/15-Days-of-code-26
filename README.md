@@ -203,5 +203,42 @@ Today I solved medium level binary tree related problems on leetcode, alongide t
 ### Key Learnings
 - Expanded on knowledge of binary trees.
 
+# Second Cycle Progress Tracker
+
+## Day 1
+
+### Progress Update
+Today I solved basic graph problems on leetcode, alongside learning some graph based algorithms.
+### Screenshot
+
+![Submission](Day16/16.png)
+
+### Key Learnings
+- Started on new data structure, learned its algorithms and solved few of its problems.
+
+## Day 2
+
+### Progress Update
+Today I continued learning the graph data structure, solved its problems on leetcode, and learnt some graph based algorithms.
+### Screenshot
+
+![Submission](Day17/17.png)
+
+### Key Learnings
+- Solved graph based questions.
+
+## Day 3
+
+### Progress Update
+Today I continued learning the graph data structure, solved its problems on leetcode, and learnt some graph based algorithms.
+### Screenshot
+
+![Submission](Day18/18.png)
+
+### Key Learnings
+- Solved graph based questions.
+
+
+
 
 
