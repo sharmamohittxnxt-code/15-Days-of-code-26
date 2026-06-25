@@ -238,7 +238,71 @@ Today I continued learning the graph data structure, solved its problems on leet
 ### Key Learnings
 - Solved graph based questions.
 
+## Day 4
 
+### Progress Update
+Participated in codechef starters 243 contest.
+### Screenshot
+
+![Submission](Day19/19.png)
+
+### Key Learnings
+- Participated in codechef contest.
+
+## Day 5
+
+### Progress Update
+Started a new topic, dynamic programming.
+### Screenshot
+
+![Submission](Day20/20.png)
+
+### Key Learnings
+- Solved basic dynamic programming related problems.
+
+## Day 6
+
+### Progress Update
+Continued solving new problems on dynamic programming.
+### Screenshot
+
+![Submission](Day21/21.png)
+
+### Key Learnings
+- Solved basic to medium dynamic programming related problems.
+
+## Day 7
+
+### Progress Update
+Continued solving new problems on dynamic programming.
+### Screenshot
+
+![Submission](Day22/22.png)
+
+### Key Learnings
+- Solved medium-hard dynamic programming related problems.
+
+## Day 8
+
+### Progress Update
+Continued solving new problems on dynamic programming.
+### Screenshot
+
+![Submission](Day23/23.png)
+
+### Key Learnings
+- Solved hard dynamic programming related problems.
+
+## Day 9
+
+### Progress Update
+Participated in codechef starters 244 contest.
+### Screenshot
+
+![Submission](Day24/24.png)
+
+### Key Learnings
+- Participated in a codechef contest.
 
 
 
