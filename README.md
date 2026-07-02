@@ -304,5 +304,68 @@ Participated in codechef starters 244 contest.
 ### Key Learnings
 - Participated in a codechef contest.
 
+## Day 10
 
+### Progress Update
+Continued solving new problems on dynamic programming and dpps.
+### Screenshot
 
+![Submission](Day25/25.png)
+
+### Key Learnings
+- Solved dynamic programming related problems.
+
+## Day 11
+
+### Progress Update
+Solved problems based on dynamic programming in subsets.
+### Screenshot
+
+![Submission](Day26/26.png)
+
+### Key Learnings
+- Solved hard dynamic programming on subsets problems.
+
+## Day 12
+
+### Progress Update
+Solved problems based on dynamic programming in subsets.
+### Screenshot
+
+![Submission](Day27/27.png)
+
+### Key Learnings
+- Solved hard dynamic programming on subsets problems.
+
+## Day 13
+
+### Progress Update
+Solved problems based on dynamic programming in subsets on TUF platform.
+### Screenshot
+
+![Submission](Day28/28.png)
+
+### Key Learnings
+- Solved hard dynamic programming on subsets problems.
+
+## Day 14
+
+### Progress Update
+Solved problems based on dynamic programming in subsets on TUF platform.
+### Screenshot
+
+![Submission](Day29/29.png)
+
+### Key Learnings
+- Solved hard dynamic programming on subsets problems.
+
+## Day 15
+
+### Progress Update
+Participated in codechef starters 245 contest.
+### Screenshot
+
+![Submission](Day30/30.png)
+
+### Key Learnings
+- Participated in a codechef contest.
