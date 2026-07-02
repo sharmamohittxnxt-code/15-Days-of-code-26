@@ -362,7 +362,7 @@ Solved problems based on dynamic programming in subsets on TUF platform.
 ## Day 15
 
 ### Progress Update
-Participated in codechef starters 245 contest.
+Participated in weekly codechef starters 245 contest.
 ### Screenshot
 
 ![Submission](Day30/30.png)
